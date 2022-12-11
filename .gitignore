@@ -1,0 +1,4 @@
+#files to be restricted from going to staging area
+
+secrets.txt
+READEme.txt
